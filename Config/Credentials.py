@@ -1,0 +1,5 @@
+GOOGLE_API_KEY = "AIzaSyAQ0Z38KhEvMQ35M-ps3soJFEfJokI_Rds"
+GOOGLE_CSE_ID = "b06c02609fcc341d1"
+WEATHER_API_KEY = "5dabfa7317be2001b944d9e6e68acf2d"
+GOOGLE_SERVICE_CREDENTIALS = "Config/Google_Service_Credential.json"
+WKHTMLTOPDF = "Config\wkhtmltopdf"
